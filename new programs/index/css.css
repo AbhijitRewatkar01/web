@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    margin-bottom: 0%;
+    background-color:#D2E0FB ;
+    visibility: visible;
+    }
+    .abc{
+         margin: 0px auto;
+    }
+    
+    .asd{
+        margin: 0px auto;
+    }
+
+    ul {
+        display: table;
+        margin: 0 auto;
+      }
+    h1{
+        color:rebeccapurple;
+        
+    }
+    h2{
+        color:rebeccapurple;
+        text-align: center;
+    }
+
+    h3{
+        color: rgb(37, 5, 5);
+        text-align: center;
+    }
+    hr{
+      border-top-style:dotted;
+      border-top-color: gray;
+      border-bottom: #D2E0FB ;
+      background-color:#D2E0FB ;
+      border-top-width: 5px;
+      width: 10%;
+    }
